@@ -1,0 +1,5 @@
+Pandas - Awesome data analytics toolbox
+py -2.7 -m pip install pandas
+
+Calmap - Plots a calander (from pandas) in a heatmap form
+py -2.7 -m pip install calmap
